@@ -1,69 +1,174 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Data Enthusiast</h3>
+
+<h3 align="center">
+Full Stack Software Engineer | Data Science Enthusiast | AI & Cloud Developer
+</h3>
 
 <p align="center">
-Passionate about Full Stack Development, Data Science, AI, and scalable applications 🚀
+Passionate about building scalable software, AI-powered systems, and solving real-world problems using Full Stack Development, Machine Learning, and Cloud Technologies 🚀
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🌱 Currently improving Full Stack & Backend Development
-- 💻 Interested in MERN Stack, Data Science, AI & Web Technologies
-- 🚀 Looking for Software Engineer / Full Stack / Backend / Data roles
-- 🌍 Open to global opportunities
-- ⚡ Love building real-world projects
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-
-### Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+- 🎓 M.Tech CSE Student at SRM Institute of Science and Technology
+- 💻 Full Stack Developer with hands-on MERN stack experience
+- 🤖 Interested in AI, Data Science, Machine Learning & Backend Systems
+- ☁️ Experience with AWS Cloud Infrastructure
+- 🌍 Open to Software Engineer, Full Stack, Backend, AI & Data roles
+- 🚀 Passionate about building impactful real-world products
 
 ---
 
-## 🚀 Projects
+# 🛠️ Tech Stack
 
-### Employee Time Tracking System
-MERN stack application for employee attendance and time management.
+## Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c" />
+</p>
 
-### Plant Disease Prediction
-Deep Learning model for plant disease detection using image classification.
+## Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
 
-### Olympics Data Analysis
-Interactive analytics app using Streamlit, Flask & Machine Learning.
+## Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Image Enhancement using ESRGAN
-AI-powered image super resolution project.
+## Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
+</p>
+
+## Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 💼 Experience
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshgupta024&show_icons=true)
+### Full Stack Web Developer | Ethnus - Codemithra
+📅 Aug 2023 – Dec 2023
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta024&layout=compact)
+- Developed scalable MERN stack applications
+- Built REST APIs and optimized MongoDB schemas
+- Improved backend performance and response efficiency
+
+### AWS Cloud Intern | F13 Technologies
+📅 Jan 2023 – Mar 2023
+
+- Worked on AWS EC2, S3, IAM, Lambda
+- Built scalable cloud infrastructure
+- Improved system reliability and optimization
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-- LinkedIn: Add your link
-- Email: Add your email
+## 📈 FinSight – Intelligent Financial Analytics Platform
+**Tech:** MERN, Docker, WebSocket, JWT
 
-⭐ Check out my repositories and feel free to connect!
+- Real-time crypto portfolio analytics platform
+- JWT authentication & scalable REST APIs
+- Live market tracking using WebSocket
+
+---
+
+## 🌍 DisasterEye – AI-Powered Disaster Impact Assessment
+**Tech:** Computer Vision, SAR, Machine Learning
+
+- AI-powered disaster damage assessment system
+- Satellite image analysis for flood-aware heatmaps
+- Automated relief planning insights
+
+---
+
+## 🏥 Doctor AI Disagreement
+**Tech:** Machine Learning, NLP, Data Analytics
+
+- AI system to analyze disagreement patterns among doctors
+- Clinical NLP and predictive analytics for healthcare
+
+---
+
+## 🌱 Plant Disease Prediction
+**Tech:** Deep Learning, Computer Vision
+
+- Image classification model to detect plant diseases
+- Supports early diagnosis for agriculture
+
+---
+
+## 🗣️ LinguaVerse AI
+**Tech:** Next.js, NLP, TailwindCSS
+
+- AI-powered language learning platform
+- Speech recognition and multilingual communication
+
+---
+
+## ⏱️ Minute Mentor
+**Tech:** Next.js, AI APIs
+
+- AI productivity and mentoring platform
+- Personalized recommendations and task support
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Prize – SRM Techno Hackathon 2026 (AI for Social Good)
+
+🏅 5th Position – Medical AI Hackathon 2026
+
+🎨 Content & Design Head – SIAM VIT Chapter (2022–2025)
+
+---
+
+# 📚 Certifications
+
+- Google Cloud Computing Foundations
+- The Complete Web Development Bootcamp
+- Machine Learning A-Z
+- Mastering Data Structures & Algorithms
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshgupta024&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta024&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshgupta024&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:harsh10b24@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Explore my repositories and feel free to connect!
+</p>
