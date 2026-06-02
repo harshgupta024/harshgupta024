@@ -50,24 +50,6 @@ Passionate about building scalable software, AI-powered systems, and solving rea
 
 ---
 
-# 💼 Experience
-
-### Full Stack Web Developer | Ethnus - Codemithra
-📅 Aug 2023 – Dec 2023
-
-- Developed scalable MERN stack applications
-- Built REST APIs and optimized MongoDB schemas
-- Improved backend performance and response efficiency
-
-### AWS Cloud Intern | F13 Technologies
-📅 Jan 2023 – Mar 2023
-
-- Worked on AWS EC2, S3, IAM, Lambda
-- Built scalable cloud infrastructure
-- Improved system reliability and optimization
-
----
-
 # 🚀 Featured Projects
 
 ## 📈 FinSight – Intelligent Financial Analytics Platform
@@ -117,25 +99,6 @@ Passionate about building scalable software, AI-powered systems, and solving rea
 
 - AI productivity and mentoring platform
 - Personalized recommendations and task support
-
----
-
-# 🏆 Achievements
-
-🥇 1st Prize – SRM Techno Hackathon 2026 (AI for Social Good)
-
-🏅 5th Position – Medical AI Hackathon 2026
-
-🎨 Content & Design Head – SIAM VIT Chapter (2022–2025)
-
----
-
-# 📚 Certifications
-
-- Google Cloud Computing Foundations
-- The Complete Web Development Bootcamp
-- Machine Learning A-Z
-- Mastering Data Structures & Algorithms
 
 ---
 
